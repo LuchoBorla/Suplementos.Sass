@@ -1,0 +1,45 @@
+figure {
+  background-color: black;
+  color: blue; }
+
+body {
+  background-color: grey; }
+
+.logo {
+  width: 150px; }
+
+.boton_pedido {
+  text-align: right;
+  animation: zoomIn;
+  animation-duration: 10s; }
+
+.titulo {
+  background: #161301;
+  background: linear-gradient(0deg, rgba(22, 19, 1, 0.75674) 24%, #22c1c3 100%); }
+
+.texto {
+  background: linear-gradient(red, yellow);
+  -webkit-background-clip: text;
+  color: transparent; }
+
+.titulo2 {
+  background-color: gold; }
+
+p {
+  color: black; }
+
+nav {
+  color: white;
+  background-color: black; }
+
+h1 {
+  color: black; }
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+h1 {
+  font-family: monospace; }
+
+.historia {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
